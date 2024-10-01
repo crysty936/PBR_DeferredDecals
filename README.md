@@ -1,7 +1,7 @@
 # Deferred PBR Renderer with Deferred Decals
 
-A PBR Deferred Renderer with decals implemented.
-Notable features:
-- Debug primitive drawing
+Features:
 - Deferred Decals with Carmack's reverse stencil optimization
+- Debug primitive drawing
 - PBR Renderer
+- Scene hierarchy
